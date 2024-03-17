@@ -1,0 +1,6 @@
+Implementacja perceptronu oraz reguł uczenia perceptronu
+Test na bramkach AND i OR
+Implementacja neuronu sigmoidalnego oraz  reguły uczenia neuronu sigmoidalnego.
+Test na bramkach AND i OR
+Implementacja trzech wybranych funkcji aktywacji.  
+Zestawieni wyników. 
