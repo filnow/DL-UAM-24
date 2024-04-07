@@ -1,0 +1,19 @@
+Zaimplementuj prosty klasyfikator SVM z wykorzystaniem algorytmu SMO lub BSVM Platta. Użyj go do klasyfikacji przykładowych danych z dwóch lub więcej klas.
+
+Rozwiązanie problemu dualnego za pomocą biblioteki optymalizacyjnej:
+Użyj popularnej biblioteki optymalizacyjnej, takiej jak cvxopt, aby rozwiązać problem dualny związany z klasyfikatorem SVM dla zestawu danych. Porównaj wyniki z własną implementacją.
+
+Wykorzystanie funkcji jądra w klasyfikatorze SVM:
+Zastosuj różne funkcje jądra, takie jak funkcje gaussowskie, wielomianowe lub sigmoidalne, w klasyfikatorze SVM. Przetestuj ich skuteczność na zestawie danych i porównaj wyniki.
+
+Iris Dataset: Zestaw danych zawierający pomiar cech kwiatów Irysów, takich jak długość i szerokość płatków oraz działek kielicha. Składa się z trzech klas, co sprawia, że jest odpowiedni do klasyfikacji wieloklasowej.
+
+MNIST Dataset: Zestaw danych MNIST zawiera obrazy ręcznie pisanych cyfr od 0 do 9. Jest to popularny zestaw danych do zadania klasyfikacji obrazów.
+
+Breast Cancer Dataset: Ten zestaw danych zawiera pomiary cech komórek nowotworowych, takich jak wielkość, kształt i tekstura, oraz informacje o tym, czy nowotwór jest złośliwy czy łagodny.
+
+Digits Dataset: Jest to uproszczony wariant zestawu danych MNIST, zawierający obrazy ręcznie pisanych cyfr od 0 do 9.
+
+Titanic Dataset: Zestaw danych zawiera informacje o pasażerach statku Titanic, takie jak wiek, płeć, klasa podróży itp., oraz informację o tym, czy dany pasażer przeżył katastrofę czy nie.
+
+Heart Disease Dataset: Ten zestaw danych zawiera informacje medyczne o pacjentach dotyczące czynników ryzyka choroby serca i informacje, czy dana osoba cierpi na chorobę serca czy nie.
