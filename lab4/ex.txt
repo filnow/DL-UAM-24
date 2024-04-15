@@ -1,0 +1,22 @@
+Implementacja sieci MLP z jedną warstwą ukrytą 
+
+Wśród wielu źródeł referencyjnych (książkowych i sieciowych) dobrymi w aspekcie implementacyjnym są: 
+
+rozdział 12 książki: S. Raschka, V. Mirjalili Python. Machine learning i deep learning. Biblioteki scikit-learn i TensorFlow 2, Helion 2021. (zawiera kody .ipynb) 
+
+książka online: Dive into Deep Learning (zawiera, podane w sposób zwarty, istotne fakty implementacyjne) 
+
+Prosto wyjaśnione podstawowe szczegóły implementacyjne można znaleźć również na portalu machinelearningmastery.com  
+
+Zadanie. 1 (100 pkt)  Implementujemy sieć z jedną warstwą ukrytą oraz algorytmem propagacji wstecznej. Wygodnie jest standardowo zbudować klasę z metodami fit() oraz predict(). Jako wskaźnik jakości wyniku wybieramy accuracy. ( Plik z przykładowymi kodami jest w zakładce Pliki - SSN_skry_SSN_Keras.ipynb) 
+
+Zadanie. 2 (50 pkt) Rozbuduj bazę danych obrazów generując dodatkowe obrazy będące przefiltrowanymi obrazami oryginalnymi - jako filtra można użyć filtr gradientów kierunkowych. Przeprowadź ponownie testy sieci MLP z zadania 1. 
+
+Zadanie .3 (50 pkt) Udokumentować przebieg eksperymentu dla:
+
+różnych funkcji aktywacji ( co najmniej 2),
+różnych współczynników uczenia( co najmniej 2),
+różnej ilości epok( co najmniej 2). 
+Informacje na temat danych uczących oraz testujących znajdują się w pliku sw_lab1.ipynb
+
+Są tam też potrzebne funkcje, które może wykorzystać do wczytania danych. 
