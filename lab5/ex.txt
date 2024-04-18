@@ -1,0 +1,3 @@
+Zadanie. 1 (100 pkt)  Implementujemy sieć CNN (można wykorzystać przeznaczone do tego pakiety, nie trzeba pisać sieci z "ręki"). Jako wskaźnik jakości wyniku wybieramy accuracy.  
+
+Zadanie. 2 (100 pkt) Udokumentować przebieg eksperymentu, którego celem jest porównanie czasu uczenia, accuracy dla sieci z zadania poprzedniego oraz zaimplementowanej w tym zadaniu sieci CNN 
